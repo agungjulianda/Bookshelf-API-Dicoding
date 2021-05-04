@@ -1,2 +1,0 @@
-# DicodingBookShelfAPI
-# Bookshelf-API-Dicoding
